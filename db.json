@@ -1,6 +1,6 @@
 [
--{
--"source": {
+{
+"source": {
 "id": "business-insider",
 "name": "Business Insider"
 },
@@ -9,8 +9,8 @@
 "urlToImage": "https://amp.businessinsider.com/images/5d852fc32e22af6341041b1e-1920-960.jpg",
 "publishedAt": "2019-09-23T14:35:15Z",
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Yahoo.com"
 },
@@ -19,8 +19,8 @@
 "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KUEJ55ofvDS5E_GDPKfzow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/IazSHcHbfHswUWTbOTp4nQ--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/69e429012235f1d9e07b9af2e3174784",
 "publishedAt": "2019-09-23T14:14:35Z",
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Prnewswire.com"
 },
@@ -29,8 +29,8 @@
 "urlToImage": "https://mma.prnewswire.com/media/803908/Bitcoin_SV_Logo.jpg?p=facebook",
 "publishedAt": "2019-09-23T14:05:00Z",
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Forbes.com"
 },
@@ -39,8 +39,8 @@
 "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d88bdf26de3150009a4cafe%2F960x0.jpg",
 "publishedAt": "2019-09-23T14:01:51Z",
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Bitcoinist.com"
 },
@@ -49,8 +49,8 @@
 "urlToImage": "https://bitcoinist.com/wp-content/uploads/2019/09/shutterstock_1352302367-1920x1200.jpg",
 "publishedAt": "2019-09-23T14:00:30Z",
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Cointelegraph.com"
 },
