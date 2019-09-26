@@ -36,7 +36,7 @@
             "name": "الدحيح",
             "icon": "https://placeimg.com/32/32/any"
           }
-        }
+        },
         {
           "id": "5d7f9b153a29fc0f1d6bb27f",
           "type": "v",
@@ -58,7 +58,7 @@
             "name": "الدحيح",
             "icon": "https://placeimg.com/32/32/any"
           }
-        }
+        },
         {
           "id": "5d7f9b153a29fc0f1d6bb27f",
           "type": "v",
@@ -69,6 +69,6 @@
             "name": "فيلم جامد",
             "icon": "https://placeimg.com/32/32/any"
           }
-        },
+        }
       ]
     }
